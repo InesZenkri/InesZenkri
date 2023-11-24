@@ -15,7 +15,7 @@
 <a href="https://discord.gg/ftou7." target="blank">
   <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" /></a>
 <a href="mailto:ines@zenkri.com" target="_blank">
-  <img align="center" src="/Users/zenkri/InesZenkri/src/email.png" alt="Email" height="30" width="40" />
+  <img align="center" src="src/email.png" alt="Email" height="30" width="40" />
 </a>
 
 </p>
