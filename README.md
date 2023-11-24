@@ -4,18 +4,18 @@
 
 - - -
 
-<h3 align="left">Connect with me (⁎⁀⎵⁀⁎) :</h3>
+<h3 align="left">Connect with me (⁎⁀⎵⁀⁎) </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
-  <img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" /></a>
+  <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ines.zenkri.9/" target="blank">
-  <img align="center" src="facebook.png" alt="https://www.facebook.com/ines.zenkri.9/" height="30" width="40" /></a>
+  <img align="center" src="src/facebook.png" alt="https://www.facebook.com/ines.zenkri.9/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ines_zenkri/" target="blank">
-  <img align="center" src="instagram.png" alt="https://www.instagram.com/ines_zenkri/" height="30" width="40" /></a>
+  <img align="center" src="src/instagram.png" alt="https://www.instagram.com/ines_zenkri/" height="30" width="40" /></a>
 <a href="https://discord.gg/ftou7." target="blank">
-  <img align="center" src="discord.png" alt="ftou7." height="30" width="40" /></a>
+  <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" /></a>
 <a href="mailto:ines@zenkri.com" target="_blank">
-  <img align="center" src="email.png" alt="Email" height="30" width="40" />
+  <img align="center" src="src/email.png" alt="Email" height="30" width="40" />
 </a>
 
 </p>
@@ -34,7 +34,7 @@
 
 > :hammer_and_wrench:  Tools - Git | Stack Overflow
 
-> :atom:  IDEs - Vim | PyCharm | Visual Studio Code | Xcode
+> :atom:  IDEs - Vim | PyCharm | Visual Studio Code | Xcode | Code::Blocks
 
 <br>
 
