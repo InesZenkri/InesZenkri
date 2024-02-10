@@ -50,10 +50,10 @@
 <style>
     .floating-button {
         position: fixed;
-        bottom: 20px; 
-        right: 5px; 
-        z-index: 999; 
-        animation: floatAnimation 3s ease-in-out infinite; animation */
+        bottom: 20px;
+        right: 5px;
+        z-index: 999;
+        animation: floatAnimation 3s ease-in-out infinite;
     }
 
     @keyframes floatAnimation {
@@ -68,5 +68,6 @@
         }
     }
 </style>
+
 <a href="https://www.buymeacoffee.com/zenkri" target="_blank" class="floating-button"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 150px !important; border-radius: 5px !important; box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.1) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.1) !important;" align="right">
 </a>
