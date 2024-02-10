@@ -5,20 +5,26 @@
 - - -
 
 <h3 align="left">Connect with me (⁎⁀⎵⁀⁎) </h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
-  <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" /></a>
+  <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" style="margin: 2%;" />
+<a>
 <a href="https://www.facebook.com/ines.zenkri.9/" target="blank">
-  <img align="center" src="src/facebook.png" alt="https://www.facebook.com/ines.zenkri.9/" height="30" width="40" /></a>
+  <img align="center" src="src/facebook.png" alt="https://www.facebook.com/ines.zenkri.9/" height="30" width="40" style="margin: 2%;"/>
+</a>
+
 <a href="https://www.instagram.com/ines_zenkri/" target="blank">
-  <img align="center" src="src/instagram.png" alt="https://www.instagram.com/ines_zenkri/" height="30" width="40" /></a>
+  <img align="center" src="src/instagram.png" alt="https://www.instagram.com/ines_zenkri/" height="30" width="40" style="margin: 2%;"/>
+</a>
 <a href="https://discord.gg/ftou7." target="blank">
-  <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" /></a>
+  <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" style="margin: 2%;"/>
+</a>
 <a href="mailto:ines@zenkri.com" target="_blank">
-  <img align="center" src="src/email.png" alt="Email" height="30" width="40" />
+  <img align="center" src="src/email.png" alt="Email" height="30" width="40" style="margin: 2%;"/>
 </a>
 
 </p>
+
 
 - - - 
 
@@ -39,3 +45,28 @@
 <br>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
+- - -
+<style>
+    .floating-button {
+        position: fixed;
+        bottom: 20px; 
+        right: 5px; 
+        z-index: 999; 
+        animation: floatAnimation 3s ease-in-out infinite; animation */
+    }
+
+    @keyframes floatAnimation {
+        0% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-10px);
+        }
+        100% {
+            transform: translateY(0);
+        }
+    }
+</style>
+<a href="https://www.buymeacoffee.com/zenkri" target="_blank" class="floating-button"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" style="height: 41px !important; width: 150px !important; border-radius: 5px !important; box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.1) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.1) !important;" align="right">
+</a>
