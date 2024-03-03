@@ -4,7 +4,7 @@
 
 - - -
 
-<h3 align="left"> Connect with me : </h3>
+<h3 align="left"> Connect with me  ^ _ ^ </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
   <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" style="margin: 10px;" />
@@ -46,14 +46,10 @@
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-<div style="display: flex; justify-content: center;">
-    <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE" target="blank">
-        <img src="src/paypal.svg" alt="supportme" height="50%" width="50%" style="margin: 10px;">
-    </a>
-    <a href="https://www.buymeacoffee.com/zenkri" target="blank">
-        <img src="src/coffee.svg" alt="supportme" height="50%" width="50%" style="margin: 10px;">
-    </a>
-</div>
+[![PayPal](src/paypal.svg)](https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE)
+[![Buy Me A Coffee](src/coffee.svg)](https://www.buymeacoffee.com/zenkri)
+
+
 
 
 
