@@ -47,16 +47,13 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 <div style="display: flex; justify-content: center;">
-    <div style="flex: 0 0 100px; margin-right: 10px; border-radius: 3px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <a href="https://www.buymeacoffee.com/zenkri" target="_blank">
-            <img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style="width: 50%; height: 50%;">
-        </a>
-    </div>
-    <div style="flex: 0 0 100px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE" target="_blank">
-            <img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" alt="Support via PayPal" style="width: 50%; height: 50%; ">
-        </a>
-    </div>
+    <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE" target="blank">
+        <img src="src/paypal.svg" alt="supportme" height="50%" width="50%" style="margin: 10px;">
+    </a>
+    <a href="https://www.buymeacoffee.com/zenkri" target="blank">
+        <img src="src/coffee.svg" alt="supportme" height="50%" width="50%" style="margin: 10px;">
+    </a>
 </div>
+
 
 
