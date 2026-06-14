@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects. Currently exploring full-stack development and cloud technologies.
+I'm a passionate developer and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects. Cu[...]
 
 ---
 
@@ -16,8 +16,6 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-zenkri/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ines.zenkri.9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ines_zenkri/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ftou7.)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ines@zenkri.com)
 
@@ -27,7 +25,7 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 ## 📊 Coding Activity
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&l[...]
 
 ---
 
