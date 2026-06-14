@@ -30,7 +30,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ## Coding Activity
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=YOUR_USERNAME&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
