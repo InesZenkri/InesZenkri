@@ -5,13 +5,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate developer and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects. Cu[...]
+I'm a passionate CS Student and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <h3 align="left"> ^ _ ^ </h3>
 <p align="center">
@@ -28,7 +28,7 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 ---
 
-## 📊 Coding Activity
+## Coding Activity
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&l[...]
 
@@ -52,7 +52,7 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 ---
 
-## 🎁 Support My Work
+## Support My Work
 
 If you enjoy my projects, consider supporting me:
 
