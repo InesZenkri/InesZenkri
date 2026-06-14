@@ -11,9 +11,9 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ---
 
-## Connect with Me
+## Connect with Me ^ _ ^ 
 
-<h3 align="left"> ^ _ ^ </h3>
+<h3 align="left"> </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
   <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" style="margin: 10px;" />
@@ -30,7 +30,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ## Coding Activity
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&l[...]
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=YOUR_USERNAME&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
@@ -55,8 +55,6 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 ##  GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InesZenkri&layout=compact&theme=radical&hide_border=true)
 
