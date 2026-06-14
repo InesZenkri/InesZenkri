@@ -1,56 +1,83 @@
 ![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hi ヾ(＾-＾),  I'm Ines Zenkri</h1>
-<h3 align="center"> Passionate about coding, striving to innovate</h3>
+<h3 align="center">Passionate about coding, striving to innovate 🚀</h3>
 
-- - -
+---
 
-<h3 align="left"> Connect with me  ^ _ ^ </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
-  <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" style="margin: 10px;" />
-<a>
-<a href="https://www.facebook.com/ines.zenkri.9/" target="blank">
-  <img align="center" src="src/facebook.png" alt="https://www.facebook.com/ines.zenkri.9/" height="30" width="40" style="margin: 10px;"/>
-</a>
+## 🎯 About Me
 
-<a href="https://www.instagram.com/ines_zenkri/" target="blank">
-  <img align="center" src="src/instagram.png" alt="https://www.instagram.com/ines_zenkri/" height="30" width="40" style="margin: 10px;"/>
-</a>
-<a href="https://discord.gg/ftou7." target="blank">
-  <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" style="margin:10px;"/>
-</a>
-<a href="mailto:ines@zenkri.com" target="_blank">
-  <img align="center" src="src/email.png" alt="Email" height="30" width="40" style="margin: 10px;"/>
-</a>
+I'm a passionate developer and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects. Currently exploring full-stack development and cloud technologies.
 
-</p>
+---
 
+## 🤝 Connect with Me
 
-- - - 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-zenkri/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ines.zenkri.9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ines_zenkri/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ftou7.)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ines@zenkri.com)
+
+</div>
+
+---
+
+## 📊 Coding Activity
+
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-- - - 
-<br>
 
-## 👩‍💻 Current Technical Skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio,python,js,php)](https://skillicons.dev)
+## 👩‍💻 Technical Skills
 
-<br>
+### Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,bash,markdown,git,github,vscode,vim)](https://skillicons.dev)
 
-> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS | PHP | JavaScript | Python
+<details>
+<summary><b>📚 Detailed Breakdown</b></summary>
 
-> :hammer_and_wrench:  Tools - Git | Stack Overflow
+> **💻 Languages:** C | C++ | Python | JavaScript | PHP | HTML | CSS | Bash | Markdown
 
-> :atom:  IDEs - Vim | PyCharm | Visual Studio Code | Xcode | Code::Blocks
+> **🛠️ Tools:** Git | GitHub | Stack Overflow
 
-<br>
+> **🎨 IDEs:** Visual Studio Code | PyCharm | Vim | Xcode | Code::Blocks | Visual Studio
+
+</details>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InesZenkri&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-[![PayPal](src/paypal.svg)](https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Buy Me A Coffee](src/coffee.svg)](https://www.buymeacoffee.com/zenkri)
+---
 
+## 🎁 Support My Work
 
+If you enjoy my projects, consider supporting me:
 
+<div align="center">
 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/zenkri)
 
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Let's collaborate and build something amazing together!
+
+</div>
