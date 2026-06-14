@@ -13,13 +13,18 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 ## 🤝 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-zenkri/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ftou7.)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ines@zenkri.com)
-
-</div>
+<h3 align="left"> ^ _ ^ </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ines-zenkri/" target="blank">
+  <img align="center" src="src/linkedin.png" alt="https://www.linkedin.com/in/ines-zenkri/" height="30" width="40" style="margin: 10px;" />
+</a>
+<a href="https://discord.gg/ftou7." target="blank">
+  <img align="center" src="src/discord.png" alt="ftou7." height="30" width="40" style="margin:10px;"/>
+</a>
+<a href="mailto:ines@zenkri.com" target="_blank">
+  <img align="center" src="src/email.png" alt="Email" height="30" width="40" style="margin: 10px;"/>
+</a>
+</p>
 
 ---
 
@@ -65,12 +70,14 @@ I'm a passionate developer and tech enthusiast dedicated to building innovative 
 
 If you enjoy my projects, consider supporting me:
 
-<div align="center">
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/zenkri)
-
-</div>
+<p align="center">
+<a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE">
+  <img src="src/paypal.svg" alt="PayPal" height="40" style="margin: 10px;" />
+</a>
+<a href="https://www.buymeacoffee.com/zenkri">
+  <img src="src/coffee.svg" alt="Buy Me A Coffee" height="40" style="margin: 10px;" />
+</a>
+</p>
 
 ---
 
