@@ -68,7 +68,6 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 <p align="center">
 <img src="https://github.com/InesZenkri/InesZenkri/raw/snake/github-contribution-grid-snake.svg" alt="Snake animation" /></p>
 
-> Set up via the [snk GitHub Action](https://github.com/Platane/snk) — see the snippet at the bottom of this file.
 
 ---
 
