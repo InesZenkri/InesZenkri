@@ -3,25 +3,22 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%2C+I'm+Ines+Zenkri;CS+Stu[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%2C+I'm+Ines+Zenkri;CS+Student+%7C+Tech+Enthusiast;Building+things+with+C%2C+Python+%26+JS+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a passionate CS Student and tech enthusiast dedicated to building innovative solutions. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
 
-- 🔭 Currently working on: **[your current project]**
-- 🌱 Currently learning: **[whatever you're learning]**
-- 💬 Ask me about: **C, C++, Python, JavaScript**
-- ⚡ Fun fact: **I am just a girl 🎀**
+
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,bash,git,github,vscode,vim,linux&theme=dark" />
@@ -41,7 +38,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -58,25 +55,25 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ---
 
-## ⏱️ Weekly Coding Activity
+##  Weekly Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=[...]
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/InesZenkri/InesZenkri/raw/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/InesZenkri/InesZenkri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 > Set up via the [snk GitHub Action](https://github.com/Platane/snk) — see the snippet at the bottom of this file.
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ines-zenkri/" target="_blank">
@@ -92,7 +89,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ---
 
-## ☕ Support My Work
+##  Support My Work
 
 <p align="center">
   <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE">
@@ -107,7 +104,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 <div align="center">
 
-### ⭐ Let's collaborate and build something amazing together!
+###  Let's collaborate and build something amazing together!
 
 <img src="https://komarev.com/ghpvc/?username=InesZenkri&style=flat-square&color=blueviolet" alt="Profile views" />
 
