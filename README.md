@@ -3,7 +3,10 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%2C+I'm+Ines+Zenkri;CS+Student+%7C+Tech+Enthusiast;Building+things+with+C%2C+Python+%26+JS+%F0%9F%9A%80" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%E3%83%BE(%EF%BC%BE-%EF%BC%BE)%2C+I'm+Ines+Zenkri;Computer+Science+Student+%7C+TU+Braunschweig;Passionate+about+AI%2C+Robotics+%26+Full-Stack+Development;Building+projects+with+C%2C+Python%2C+JavaScript+%26+Java;Tutor%2C+Hackathon+Winner+%26+Lifelong+Learner;Always+learning.+Always+building.+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </a>
 
 </div>
