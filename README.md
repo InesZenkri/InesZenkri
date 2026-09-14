@@ -45,18 +45,20 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 ## GitHub Stats
 
 <p align="center">
-  <img height="165"
+  <img width="400"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InesZenkri&theme=radical" />
-  <img height="165"
+  <img width="400"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InesZenkri&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=InesZenkri&theme=radical&hide_border=true" />
+  <img width="700"
+       src="https://streak-stats.demolab.com/?user=InesZenkri&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InesZenkri&theme=radical" />
+  <img width="850"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InesZenkri&theme=radical" />
 </p>
 
 ---
