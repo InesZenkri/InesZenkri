@@ -44,13 +44,14 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ##  GitHub Stats
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesZenkri&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InesZenkri&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=InesZenkri&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
