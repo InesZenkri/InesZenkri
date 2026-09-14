@@ -42,12 +42,13 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 
 ---
 
-##  GitHub Stats
-
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=InesZenkri&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesZenkri&layout=compact&theme=radical&hide_border=true" />
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InesZenkri&theme=radical" />
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InesZenkri&theme=radical" />
 </p>
 
 <p align="center">
@@ -55,7 +56,7 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InesZenkri&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InesZenkri&theme=radical" />
 </p>
 
 ---
