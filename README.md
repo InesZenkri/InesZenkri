@@ -56,14 +56,10 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
        src="https://streak-stats.demolab.com/?user=InesZenkri&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="850"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InesZenkri&theme=radical" />
-</p>
 
 ---
 
-##  Weekly Coding Activity
+##  Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7289&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
