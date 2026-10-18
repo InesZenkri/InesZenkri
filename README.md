@@ -97,9 +97,6 @@ I'm a passionate CS Student and tech enthusiast dedicated to building innovative
   <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
-  <a href="https://www.buymeacoffee.com/zenkri">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </p>
 
 ---
