@@ -18,7 +18,13 @@
 
 I'm a Computer Science student at TU Braunschweig and a working student in Cloud & DevOps at Volkswagen Financial Services. Previously a software development working student at Amazon. I build things that solve real problems, from optimization algorithms and scheduling tools to small web games, and I've won a few hackathons along the way. I also tutor programming courses at my university.
 
+---
 
+##  Featured Projects
+
+- **[CoDex (RAG-SEP)](https://github.com/InesZenkri/RAG-SEP)** - Retrieval-augmented PDF search agent with grounded citations and calibrated abstention. Won **1st place** at the Tag der jungen Softwareentwickler*innen 2026 at TU Braunschweig ([press coverage](https://magazin.tu-braunschweig.de/m-post/tag-der-jungen-softwareentwicklerinnen-intelligenter-pdf-suchagent-gewinnt/)).
+- **[Debug Sprint](https://github.com/InesZenkri/debug-sprint)** - JavaScript debugging game: read a broken snippet, type the fix. React, TypeScript, Vite. [Play it live](https://debugit.netlify.app).
+- **[CorteX](https://github.com/InesZenkri/CorteX)** - Evidence-first AI workspace that turns audit dossiers into traceable, source-cited findings (React, TypeScript, FastAPI).
 
 ---
 
