@@ -16,7 +16,7 @@
 
 ##  About Me
 
-I'm a Computer Science student at TU Braunschweig and a working student in Cloud & DevOps at Volkswagen Financial Services. Previously a software development working student at Amazon. I build things that solve real problems, from optimization algorithms and scheduling tools to small web games, and I've won a few hackathons along the way. I also tutor programming courses at my university. Our project CoDex won 1st place at TU Braunschweig's Tag der jungen Softwareentwickler*innen 2026.
+I'm a Computer Science student at TU Braunschweig and a working student in Cloud & DevOps at Volkswagen Financial Services. Previously a software development working student at Amazon.
 
 
 
