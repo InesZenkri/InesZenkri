@@ -46,9 +46,9 @@ I'm a Computer Science student at TU Braunschweig and a working student in Cloud
 
 <p align="center">
   <img width="400"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InesZenkri&theme=radical" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InesZenkri&theme=radical&v=2" />
   <img width="400"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InesZenkri&theme=radical" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InesZenkri&theme=radical&v=2" />
 </p>
 
 <p align="center">
