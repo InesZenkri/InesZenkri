@@ -25,20 +25,8 @@ I'm a Computer Science student at TU Braunschweig and a working student in Cloud
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,bash,git,github,vscode,vim,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,bash,git,github,vscode,vim,linux,aws,docker&theme=dark" />
 </p>
-
-<details>
-<summary><b>📚 Detailed Breakdown</b></summary>
-<br>
-
-> **💻 Languages:** C · C++ · Python · JavaScript · PHP · HTML · CSS · Bash · Markdown
->
-> **🛠️ Tools:** Git · GitHub · Stack Overflow
->
-> **🎨 IDEs:** Visual Studio Code · PyCharm · Vim · Xcode · Code::Blocks · Visual Studio
-
-</details>
 
 ---
 
@@ -78,6 +66,10 @@ I'm a Computer Science student at TU Braunschweig and a working student in Cloud
 ##  Connect with Me
 
 <p align="center">
+  Got something on your mind? Reach out to me.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ines-zenkri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -88,19 +80,7 @@ I'm a Computer Science student at TU Braunschweig and a working student in Cloud
 
 ---
 
-##  Support My Work
-
-<p align="center">
-  <a href="https://paypal.me/InesZenkri?country.x=DE&locale.x=de_DE">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
-
-###  Let's collaborate and build something amazing together!
 
 <img src="https://komarev.com/ghpvc/?username=InesZenkri&style=flat-square&color=blueviolet" alt="Profile views" />
 
