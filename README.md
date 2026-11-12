@@ -28,6 +28,20 @@ I'm a Computer Science student at TU Braunschweig and a working student in Cloud
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,bash,git,github,vscode,vim,linux,aws,docker&theme=dark" />
 </p>
 
+<details>
+<summary><b>📚 Detailed Breakdown</b></summary>
+<br>
+
+> **💻 Languages:** C · C++ · Python · JavaScript · PHP · HTML · CSS · Bash · Markdown
+>
+> **☁️ Cloud & DevOps:** AWS · Docker · Concourse CI
+>
+> **🛠️ Tools:** Git · GitHub · Confluence · Jira · Asana · Stack Overflow
+>
+> **🎨 IDEs:** Visual Studio Code · PyCharm · Vim · Xcode · Code::Blocks · Visual Studio
+
+</details>
+
 ---
 
 ## GitHub Stats
